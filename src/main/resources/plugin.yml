@@ -1,0 +1,5 @@
+name: DeluxeMenuItemConverter
+author: Despical
+api-version: 1.13
+version: ${project.version}
+main: me.despical.itemconverter.Main
